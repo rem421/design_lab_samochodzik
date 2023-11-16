@@ -2,6 +2,8 @@
 
 Welcome to the RC Car University Design Lab project! 🚗🔧
 
+![RC Car Image](/images/Znak_graficzny_AGH.svg.png)
+
 **Project Creators:** Remigiusz Leśny, Michał Glos, Miłosz Nicieja, Bartosz Dźwierzyński 
 
 ## About
@@ -9,3 +11,5 @@ Welcome to the RC Car University Design Lab project! 🚗🔧
 This project is a collaborative effort within the AGH  university of science and technology 3rd year students of electronics and telecommunications design lab team to create a high-performance RC car. Our goal is to design and implement cutting-edge technologies, making this RC car a showcase of innovation and engineering excellence.
 
 ## About
+
+![Electric Scheme Image](images/Schematic.drawio.png)

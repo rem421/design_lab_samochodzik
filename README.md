@@ -1,6 +1,6 @@
 # design_lab S.A.M.O.C.H.O.D.Z.I.K
 
-Welcome to the RC Car University Design Lab project! 🚗🔧
+Welcome to the S.A.M.O.C.H.O.D.Z.I.K RC Car AGH University of Science and Technology Design Lab project! 🚗🔧
 
 ![RC Car Image](/images/Znak_graficzny_AGH.svg.png)
 
@@ -8,11 +8,11 @@ Welcome to the RC Car University Design Lab project! 🚗🔧
 
 ## Project
   
-This project is a collaborative effort within the AGH  university of science and technology 3rd year students of electronics and telecommunications design lab team to create a high-performance RC car. Our goal is to design and implement cutting-edge technologies, making this RC car a showcase of innovation and engineering excellence.
+This project is a collaborative effort within the AGH University of Science and Technology 3rd year students of electronics and telecommunications design lab team to create a high-performance RC car. Our goal is to design and implement cutting-edge technologies, making this RC car a showcase of innovation and engineering excellence. 
 
 ## About 
 
-The world of Remote-Controlled (RC) cars is a captivating realm where miniature engineering meets the thrill of precision control. As we delve into the schematic representation of an RC car, we uncover the intricacies that define these dynamic machines. From the robust chassis that forms the vehicle's backbone to the sophisticated electronic components governing its every move, this schematic is a key to unraveling the mechanical symphony that powers RC car enthusiasts' excitement. By dissecting the various elements in this design, we embark on a journey that not only unveils the technical sophistication of these vehicles but also underscores the fusion of technology and recreation that makes RC cars a beloved pursuit. Join us as we navigate the blueprint of an RC car, exploring the synergy between electronics, software and mechanics that brings this miniature wonder to life.
+The world of Remote-Controlled (RC) cars is a captivating realm where miniature engineering meets the thrill of precision control. As we delve into the schematic representation of an RC car, we uncover the intricacies that define these dynamic machines. From the robust chassis that forms the vehicle's backbone to the sophisticated electronic components governing its every move, this schematic is a key to unraveling the mechanical symphony that powers RC car enthusiasts' excitement. By dissecting the various elements in this design, we embark on a journey that not only unveils the technical sophistication of these vehicles but also underscores the fusion of technology and recreation that makes RC cars a beloved pursuit. Join us as we navigate the blueprint of an RC car, exploring the synergy between electronics, software and mechanics that brings this miniature wonder to life. 🏁🔧🤖
 
 
 ## What is included in the S.A.M.O.C.H.O.D.Z.I.K

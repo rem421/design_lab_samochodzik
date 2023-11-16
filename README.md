@@ -36,4 +36,4 @@ The world of Remote-Controlled (RC) cars is a captivating realm where miniature 
 ![schematic diagram Image](images/Schematic.drawio.png)
 
 
-** *S.A.M.O.C.H.O.D.Z.I.K stands for System for Absolute Maneuverability, Overwhelming-speed, Created for High-performance Off-road Domination, Zooming Into Kingdome come **
+***S.A.M.O.C.H.O.D.Z.I.K stands for System for Absolute Maneuverability, Overwhelming-speed, Created for High-performance Off-road Domination, Zooming Into Kingdome come **

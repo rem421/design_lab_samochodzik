@@ -19,7 +19,7 @@ The world of Remote-Controlled (RC) cars is a captivating realm where miniature 
 
 | Component                                 | Description                                                                                                                                              |
 |-------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Chassis**                               | The main frame of the RC car, often made of lightweight materials like aluminum or carbon fiber.                                                           |
+| **Chassis**                               | The main frame of the RC car, often made of lightweight materials like PLA.                                                                               |
 | **Power Source**                          | - **Battery:** Typically a rechargeable lithium-polymer (LiPo) battery, providing power to the electric motor. <br> - **ESC (Electronic Speed Controller):** Regulates the speed and direction of the electric motor based on input from the transmitter. |
 | **Motor**                                 | An electric motor that converts electrical energy from the battery into mechanical energy to drive the wheels.                                            |
 | **Receiver (ESP32 for the time being)**   | Receives signals from the transmitter and relays them to the ESC, controlling the car's speed and direction.                                                |

@@ -32,7 +32,7 @@ The world of Remote-Controlled (RC) cars is a captivating realm where miniature 
 
   ## CAD model
 
-![RC Car CAD model](images/model_cad_samochodzik.png)
+![RC Car CAD model](images/model_cad_SAMOCHODZIK.png)
 
   ## Schematic diagram
 

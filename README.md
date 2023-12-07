@@ -30,6 +30,9 @@ The world of Remote-Controlled (RC) cars is a captivating realm where miniature 
 | **Central Unit (STM32L4)**                | Allows us to modify signals received via receiver and alter them in any shape or form. Adds an infinite number of ways to modify our vehicle, especially enabling advanced use of IMU.                                       |
 | **IMU**                                   | It is an electronic device or sensor system that measures and reports a body's specific force (acceleration) and angular rate.                               |
 
+  ## CAD model
+
+![RC Car CAD model](images/model_cad_samochodzik.png)
 
   ## Schematic diagram
 
